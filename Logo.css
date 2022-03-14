@@ -1,0 +1,8 @@
+figure{
+  display: inline-block;
+}
+
+#logo{
+  filter: blur(25px);
+}
+
